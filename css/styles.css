@@ -12,12 +12,13 @@ button {
 /* header-logo */
 .link { text-decoration: none; }
 
-.list {
+.menu {
     list-style-type: none;
 }
 
 .logo {color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
+    font-family: "Raleway",
+        sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -27,7 +28,8 @@ button {
     
 
 .span-logo {color: var(--NAVY-BLUE, #2E2F42);
-    font-family: Raleway;
+    font-family: "Raleway",
+        sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -36,6 +38,7 @@ button {
     text-transform: uppercase;}
 
     /* menu */
+
 
     .menu .link {color: var(--NAVY-BLUE, #2E2F42);
         font-family: Roboto;

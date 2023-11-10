@@ -10,7 +10,8 @@ button {
 }
 
 /* header-logo */
-.link { text-decoration: none; }
+.menu-item-link { text-decoration: none; }
+.logo {text-decoration: none;}
 
 .menu {
     list-style-type: none;

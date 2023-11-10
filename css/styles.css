@@ -2,7 +2,7 @@
 body {
     font-family:'Roboto',
         sans-serif;
-        color: var(--NAVY-BLUE, #2E2F42);
+        color: var(--NAVY-BLUE, #434455);
         background-color: #FFF;
 }
 button {
@@ -32,7 +32,7 @@ button {
     font-style: normal;
     font-weight: 700;
     line-height: 1.16;/
-    letter-spacing: 0.03em;
+    letter-spacing:0.03em;
     text-transform: uppercase;}
 
     /* menu */
@@ -45,7 +45,7 @@ button {
         line-height: 1.5;
         letter-spacing: 0.02em;}
 
-        .menu-item:hover, .menu-item:focus {color: var(--OCEAN, #404BBF);}
+        .menu-item .list :hover, .menu-item .list:focus {color: var(--OCEAN, #404BBF);}
 
         .menu-item .link {text-decoration: none;}
 

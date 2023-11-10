@@ -21,7 +21,7 @@ button {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;}
     
@@ -31,7 +31,7 @@ button {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16;/
+    line-height: 1.17;/
     letter-spacing:0.03em;
     text-transform: uppercase;}
 
@@ -45,7 +45,6 @@ button {
         line-height: 1.5;
         letter-spacing: 0.02em;}
 
-        .menu-item .list :hover, .menu-item .list:focus {color: var(--OCEAN, #404BBF);}
 
         .menu-item .link {text-decoration: none;}
 

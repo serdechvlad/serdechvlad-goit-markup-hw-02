@@ -40,7 +40,7 @@ button {
     /* menu */
 
 
-    .menu .link {color: var(--NAVY-BLUE, #2E2F42);
+    .menu-item-link {color: var(--NAVY-BLUE, #2E2F42);
         font-family: Roboto;
         font-size: 16px;
         font-style: normal;
@@ -60,3 +60,9 @@ button {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;}
+.menu-item-link:hover,
+.menu-item-link:focus {
+    color: #404BBF
+    
+
+}

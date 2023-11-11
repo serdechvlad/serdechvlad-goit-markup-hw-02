@@ -133,7 +133,9 @@ text-decoration: none;
                 line-height: 1.11;
                 letter-spacing: 0.02em;
                 text-transform: capitalize;
+                
         }
+        .menu-items{list-style-type: none;}
 .items { 
     background-color: #FFFFFF
 }

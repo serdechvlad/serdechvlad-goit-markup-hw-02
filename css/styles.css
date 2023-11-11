@@ -69,16 +69,19 @@ text-decoration: none;
 .backcolor {background-color: #2E2F42;
 }
 .solution {color: var(--WHITE, #FFF);
-    font-family: Roboto;
+    font-family: "Roboto",
+        sans-serif;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+text-align: center}
 
     .order {background:#4D5AE5;
     color: var(--WHITE, #FFF);
-        font-family: Roboto;
+        font-family: "Roboto",
+            sans-serif;
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
@@ -88,6 +91,8 @@ text-decoration: none;
 
     .order:hover, .order:focus {background: #404BBF;
     color: var(--WHITE, #FFF);
+    font-family: "Roboto",
+            sans-serif;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;

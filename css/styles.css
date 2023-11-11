@@ -89,7 +89,7 @@ text-decoration: none;
         letter-spacing: 0.04em;
     }
 
-    .button-ord:hover, .order:focus {background: #404BBF;
+    .button-ord:hover, .button-ord:focus {background: #404BBF;
     color: var(--WHITE, #FFF);
     font-family: "Roboto",
             sans-serif;

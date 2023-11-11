@@ -28,15 +28,7 @@ button {
     text-transform: uppercase;}
     
 
-.span-logo {color: var(--NAVY-BLUE, #2E2F42);
-    font-family: "Raleway",
-        sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1.17;/
-    letter-spacing:0.03em;
-    text-transform: uppercase;}
+.span-logo {color: var(--NAVY-BLUE, #2E2F42);}
 
     /* menu */
 
@@ -68,5 +60,5 @@ button {
 text-decoration: none;
 }
 .address-data:hover, .address-data:focus {color:#404BBF }
-.address-block{font-style: normal;}
+.address {font-style: normal;}
 

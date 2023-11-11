@@ -58,7 +58,8 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
 text-decoration: none;
+
 }
 .address-data:hover, .address-data:focus {color:#404BBF }
 .address {font-style: normal;}
-
+.address-dots{list-style-type: none;}

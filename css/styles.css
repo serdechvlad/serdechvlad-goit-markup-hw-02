@@ -102,7 +102,6 @@ text-decoration: none;
         /* description */
 .titles-menu{
                 color: var(--NAVY-BLUE, #2E2F42);
-                /* Header 3 */
                 font-family: Roboto;
                 font-size: 20px;
                 font-style: normal;
@@ -118,3 +117,24 @@ text-decoration: none;
                 line-height: 1.5;
                 letter-spacing: 0.02em;
         }
+
+/* our team */
+
+        .our-sec {
+            background-color: #F4F4FD
+        }
+        .team-title {
+            color: var(--NAVY-BLUE, #2E2F42);
+                text-align: center;
+                font-family: Roboto;
+                font-size: 36px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 1.1;
+                letter-spacing: 0.02em;
+                text-transform: capitalize;
+        }
+
+.back {
+    background-color: var(--WHITE, #FFF);
+}

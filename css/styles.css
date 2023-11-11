@@ -64,4 +64,36 @@ text-decoration: none;
 .address-data:hover, .address-data:focus {color:#404BBF }
 .address {font-style: normal;}
 .address-dots{list-style-type: none;}
+/* button */
 
+.backcolor {background-color: #2E2F42;
+width: 1440px;
+    height: 600px;
+    flex-shrink: 0;}
+.solution {color: var(--WHITE, #FFF);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;}
+    .order {background:#4D5AE5;
+    color: var(--WHITE, #FFF);
+        /* Button Text */
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        width: 169px;
+        height: 56px;
+    }
+    .order:hover, .order:focus {background: #404BBF;
+    color: var(--WHITE, #FFF);
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        cursor: pointer;}

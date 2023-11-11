@@ -15,7 +15,6 @@ button {
 
 .menu {
     list-style-type: none;
-    font-style: normal;
 }
 
 .logo {color: var(--IRIS, #4D5AE5);
@@ -69,6 +68,5 @@ button {
 text-decoration: none;
 }
 .address-data:hover, .address-data:focus {color:#404BBF }
-
-.address .menu {font-style: normal;}
+.address-block{font-style: normal;}
 

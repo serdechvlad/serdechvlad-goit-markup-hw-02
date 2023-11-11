@@ -130,11 +130,10 @@ text-decoration: none;
                 font-size: 36px;
                 font-style: normal;
                 font-weight: 700;
-                line-height: 1.1;
+                line-height: 1.11;
                 letter-spacing: 0.02em;
                 text-transform: capitalize;
         }
-
-.back {
-    background-color: var(--WHITE, #FFF);
+.items { 
+    background-color: #FFFFFF
 }

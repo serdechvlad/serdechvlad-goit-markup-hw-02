@@ -69,16 +69,15 @@ text-decoration: none;
 .backcolor {background-color: #2E2F42;
 }
 .solution {color: var(--WHITE, #FFF);
-    text-align: center;
     font-family: Roboto;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;}
+
     .order {background:#4D5AE5;
     color: var(--WHITE, #FFF);
-        /* Button Text */
         font-family: Roboto;
         font-size: 16px;
         font-style: normal;
@@ -86,7 +85,7 @@ text-decoration: none;
         line-height: 1.5;
         letter-spacing: 0.04em;
     }
-    
+
     .order:hover, .order:focus {background: #404BBF;
     color: var(--WHITE, #FFF);
         font-size: 16px;

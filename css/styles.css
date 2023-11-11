@@ -51,6 +51,10 @@ button {
 
 
         .menu-item .link {text-decoration: none;}
+                .menu-item-link:hover,
+                .menu-item-link:focus {
+                    color: #404BBF
+                }
 
         /* address */
 
@@ -60,10 +64,10 @@ button {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
-.menu-item-link:hover,
-.menu-item-link:focus {
-    color: #404BBF
-    
-
+    letter-spacing: 0.02em;
+text-decoration: none;
 }
+.address-data:hover, .address-data:focus {color:#404BBF }
+
+
+
